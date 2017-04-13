@@ -1,0 +1,6 @@
+X:34
+T:Stantarais et ffntte.frovaie
+Z:id:hn-jig-59
+M:6/8
+K:D
+FB|"G"e2c e>f | d4-b | e2 g>fe | e3d2c | [M:2/GE DEF | B3B|c2e> e2e:|2 d2 f>ed :|2 BB z>B|BA BA|B2 GB|A>G FF|Bc dc/A/||

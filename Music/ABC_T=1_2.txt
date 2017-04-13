@@ -1,0 +1,13 @@
+X:29
+T:Jighn laudrnand
+I:?on
+T:Slely: D,us lla blgurer
+Z:id:hn-jig-69
+M:2/4
+L:1/8
+K:Fb,a|
+f3d BGAA | c/d/d/g/ f2 |
+dB cc | _=ce/d/ fe | d}gf g2a | faf gef |
+gg/e/ dB/d/|F/c/d/e/ BA|AG/A/ BA|cBA A2f|1 dGF A2c | d2B AFE | AFB A2G | 1BAB c/B/c | Bd ef | g3 | g2 a>f | f>ga>bfe | d2(A2 AB | cBcc | ff cB | "d7"g>(g2cBA|12A2 A2G|DE df ed |
+cd ge fe|ef ef|ef (3deg (3cBB | AAGF dB | A4 _GAA | F2F FDF | ABFGF | B,dG | A=BE)DF | ABA cAB | g6 | bga fab :| [2 B2 c>ef>e d3 | {c}ed c/c/e/) | g>f | F4 | B2c2 | B6 z | A2A2 | e4z2 | g2 f>f | f4- |  f3gbaf | afab | c2d c|e f | {fe/g/ fe || edc dgf|
+geg|ede|dBA BAG|1 ^D~D3 cde|efg (ce)ecd d=
